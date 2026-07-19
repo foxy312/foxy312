@@ -14,7 +14,9 @@ While my core development repositories remain private to protect intellectual pr
 ### 🛒 Flex Multi-Vendor Marketplace
 **Full-Stack Platform (Laravel/TALL Stack)**
 
-Architected a full-scale reactive marketplace utilizing the TALL stack (Laravel, Livewire, Alpine.js, Tailwind CSS) for high-performance SPA behavior within the PHP ecosystem.
+Architected a full-scale reactive marketplace utilizing the TALL stack (Laravel, Livewire, Alpine.js, Tailwind CSS) for high-performance SPA behavior within the PHP ecosystem. 
+
+> **📸 View the Project Gallery:** I have attached comprehensive screenshots of the storefront, vendor dashboards, and Arabic (RTL) UI directly to the project section on my **[LinkedIn Profile](https://www.linkedin.com/in/ahmed-yahya-24a325341)**.
 
 *   **Architecture & Design:** Engineered strictly using the service-repository pattern to ensure clean, scalable, and testable business logic across the platform.
 *   **ERP Data Sync Layer:** Custom-engineered integration that deeply syncs with ERPNext. Dynamically bridges unique relational IDs from the Laravel layer to ERPNext Doctype names, ensuring a seamless and reliable data flow for enterprise operations.
@@ -46,4 +48,4 @@ Architected a full-scale reactive marketplace utilizing the TALL stack (Laravel,
 
 ## 📫 Let's Connect
 
-The best way to reach me is through my **[LinkedIn Profile](#)** *(Add your exact LinkedIn URL here!)* for inquiries about full-stack engineering roles or complex systems integration projects.
+The best way to reach me is through my **[LinkedIn Profile](https://www.linkedin.com/in/ahmed-yahya-24a325341)** for inquiries about full-stack engineering roles or complex systems integration projects.
